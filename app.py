@@ -24,7 +24,6 @@ while True:
         print("Ennyi életed maradt: ", elet)
 
     elif te_szamod == gondolt_szam:
-        print("N Y E R T É L!!!")
         print("Gondolt szám: ", gondolt_szam)
-        input("")
         break
+print("N Y E R T É L!!!")
